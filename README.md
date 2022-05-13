@@ -5,7 +5,7 @@
  - Google fontes: (https://fonts.google.com/)
 
 # Propósito do Site
- <p> O projeto da costrução desse site foi totalmente Minsitrado pela DIO (Digital innovation one) e desevolvido pela professora  <a href="http://gitlab.com/karensantos/project-flexbox-dio" target="_blank" rel="external">Karen Santos</a>.</p>
+ - <p> O projeto da costrução desse site foi totalmente Minsitrado pela DIO (Digital innovation one) e desevolvido pela professora  <a href="http://gitlab.com/karensantos/project-flexbox-dio" target="_blank" rel="external">Karen Santos</a>.</p>
  
  # Onde posso Acessar esse site?
  
